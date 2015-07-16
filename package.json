@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "color-convert": "^0.5.3",
-    "color-string": "^0.3.0"
+    "color-string": "git://github.com/ortutay/color-string"
   },
   "devDependencies": {
     "mocha": "^2.2.5"
